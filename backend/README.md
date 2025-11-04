@@ -15,6 +15,3 @@
    - Frontend: React, TypeScript, Tailwind CSS
    - AI: Groq Llama 3.3 70B
    - Deployment: Google Cloud Run, Firebase
-   
-   ## Architecture
-   [Add a simple diagram of your agent flow]
