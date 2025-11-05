@@ -17,6 +17,10 @@ Agent Planner uses a multi-agent AI system powered by Meta's Llama 3.3 70B to br
 
 **Try it live:** [agentplanner.web.app](https://agentplanner.web.app)
 
+**Demo Video**
+
+https://github.com/user-attachments/assets/5c19a127-adfb-4c29-92cd-aa526e017884
+
 ## Architecture
 
 The system uses multiple specialized AI agents that work together:
